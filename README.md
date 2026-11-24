@@ -2,6 +2,6 @@
 
 This is a collection of some helpful scripts for making setting up projects easier.
 
-## Makefile tools
+## Tools
 
-- [Simple C project](makefiles/simple_c.mk)
+- [Makefile scripts](makefile_scripts.md)
